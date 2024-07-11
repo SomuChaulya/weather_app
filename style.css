@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(27, 186, 197);
+    color: white;
+}
+
+.position {
+    display: flex;
+    height: 80vh;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 45%;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+input {
+    top: 20%;
+    height: 5vh;
+    width: 13vw;
+    border-radius: 10px;
+    outline: none;
+}
+
+#weather {
+    height: 300px;
+    width: 200px;
+
+}
+
+.loading{
+    
+
+}
