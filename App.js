@@ -1,4 +1,4 @@
-const API_KEY = `ef47efd8a6d23f8bedccf507dfec44d3`;
+const API_KEY = `ef47efd8a6d23f8bedccf507dfec44d3`; //demo api key
 const form = document.querySelector("form");
 const search = document.getElementById("search");
 const weather = document.getElementById("weather");
